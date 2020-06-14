@@ -357,7 +357,7 @@ ul,li{
 	background:none !important;	
 }
 
-.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/slngreen/preloader.gif);}
+.preloader{ position:fixed; left:0px; top:0px; width:100%; height:100%; z-index:999999; background-color:#ffffff; background-position:center center; background-repeat:no-repeat; background-image:url(../images/icons/loader.gif);}
 
 /*** 
 
@@ -4152,11 +4152,7 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 		width:33.333%;	
 	}
 	
-	.images-container, .images-container .image-box, .images-container .image-box .inner-box, .images-container .image-box .inner-box figure, .images-container .image-box .inner-box figure a, .images-container .image-box .inner-box figure a  img{
 	
-
-	
-}
 	
 	.contact-section .route-img a img{
 		
@@ -4181,9 +4177,16 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 
 @media (min-width: 414px) and (max-width: 598px){
 	
+	
+	#slider-section2{
+		
+	background-color: rgba(232, 231, 231, 0.8);
+	}
+	
 	#slider-section2 > div > img{
 		
 		height: 250px!important;
+		padding: 10px 20px;
 	}
 	
 	.header-style-one.fixed-header,
