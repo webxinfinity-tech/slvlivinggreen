@@ -4186,7 +4186,7 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 	#slider-section2 > div > img{
 		
 		height: 250px!important;
-		padding: 10px 20px;
+		padding: 10px 10px;
 	}
 	
 	.header-style-one.fixed-header,
@@ -4497,6 +4497,19 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 }
 
 @media screen and (max-width: 413px){
+	
+		#slider-section2{
+		
+	background-color: rgba(232, 231, 231, 0.8);
+	}
+	
+	#slider-section2 > div > img{
+		
+		height: 250px!important;
+		padding: 10px 10px;
+	}
+	
+	
 	
 	.header-style-one.fixed-header,
 	.header-style-one{
@@ -4830,6 +4843,18 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 
 @media screen and (max-width: 375px){
 
+	#slider-section2{
+		
+	background-color: rgba(232, 231, 231, 0.8);
+	}
+	
+	#slider-section2 > div > img{
+		
+		height: 250px!important;
+		padding: 10px 10px;
+	}
+	
+	
 	#neighbourhood > div > div:nth-child(2) > div > div > h2{
 		
 		font-size: 18px;
