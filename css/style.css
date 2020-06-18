@@ -4768,17 +4768,24 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 		height: 250px;
 	}
 	
-#fact h4{
+#Masterplan > div > div:nth-child(2) > div > div > div:nth-child(4) > div > li, #Masterplan > div > div:nth-child(2) > div > div > div:nth-child(5) > div > li{
+		
+		padding-left: 0px;
+		font-size: 14px;
+	}
+	
+		
+	#fact h4{
 		
 		text-align: left;
-		font-size: 14px;
-	display: flex;
+		font-size: 16px;
+		display: flex;
 	}
 	
 	#fact p{
 		
 		text-align: left;
-		font-size: 10px;
+		font-size: 14px;
 		display: flex;
 	}
 	
