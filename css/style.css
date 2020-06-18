@@ -4494,6 +4494,11 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 		height: 250px !important;
 	}
 	
+		#home > div.header-lower > div > div > div, #home > div.header-lower > div > div > div > a, #home > div.header-lower > div > div > div > a > img{
+		
+		height: 70px !important; 
+	}
+	
 }
 
 @media screen and (max-width: 413px){
@@ -4845,6 +4850,13 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 		
 		font-size: 20px;
 	}
+	
+	
+	#home > div.header-lower > div > div > div, #home > div.header-lower > div > div > div > a, #home > div.header-lower > div > div > div > a > img{
+		
+		height: 70px !important; 
+	}
+	
 }
 
 
@@ -4908,6 +4920,11 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 	body > div > section.intro-section > div > div > div.col-md-9.col-sm-7.col-xs-12 > p{
 		
 		font-size: 12px;
+	}
+	
+		#home > div.header-lower > div > div > div, #home > div.header-lower > div > div > div > a, #home > div.header-lower > div > div > div > a > img{
+		
+		height: 70px !important; 
 	}
 }
 
