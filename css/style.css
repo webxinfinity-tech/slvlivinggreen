@@ -3495,6 +3495,7 @@ body > div.page-wrapper > section.default-section.faded-section.contact-section 
 #landmark > .owl-nav.disabled  button.owl-prev, #landmark > .owl-nav.disabled  button.owl-next{
 
 	font-size: 30px;
+	padding:25px;
 }
 
 
